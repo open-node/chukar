@@ -1,0 +1,12 @@
+{
+  "name": "Socalmaster_with_elasticsearch",
+  "version": "0.0.1",
+  "authors": [
+    "Redstone Zhao <zhaoxiongfei@admaster.com.cn>"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.2",
+    "bootstrap": "~3.1.1",
+    "css-loading-spinners": "~1.0.0"
+  }
+}

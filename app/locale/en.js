@@ -1,0 +1,1 @@
+module.exports = {"en":{"邮件":"Email","其它":"Other","媒体":"Media","批量模式":"Excel mode","广告位代码":"Placement code","广告位导出":"Export code","您确定要删除这些广告位吗？":"Delete the placements, Are you sure?","选择媒体":"Choice media","默认创意":"Default","campaign_status_unstart":"Not start","campaign_status_finished":"Finished","campaign_status_doing":"Doing"}};
